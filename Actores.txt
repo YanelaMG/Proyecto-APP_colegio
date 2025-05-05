@@ -1,0 +1,24 @@
+
+
+
+Primer actor: docente (acceso a los siguientes casos de uso: 4 y 5)
+
+Segundo actor: administrador (acceso a todos los casos de uso)
+
+Tercer actor: secretaria (acceso a los siguientes casos de uso: 1 y 6)
+
+
+
+1.- Caso de uso: Registro de estudiantes
+
+2.- Caso de uso: Registrar profesores
+
+3.- Caso de uso: Eliminar y modificar
+
+4.- Caso de uso: Registrar notas
+
+5.- Caso de uso: Consultas de notas
+
+6.- Caso de uso: Crear facturas
+
+7.- Caso de uso: Gastos e ingresos
