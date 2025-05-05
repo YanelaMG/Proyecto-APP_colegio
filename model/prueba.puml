@@ -1,0 +1,24 @@
+@startsalt prueba
+
+skinparam BackgroundColor palegreen
+{+
+Login | "Yanela" 
+Password | "1234"
+[Cancelar] | [Entrar]
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@enduml
